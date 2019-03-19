@@ -1,10 +1,11 @@
 numpy
 scipy
 matplotlib
-ipython
 scikit-learn
 pandas
 pillow
 jupyter
-mglearn
-graphviz
+keras
+tensorflow
+xlrd
+xlwt
